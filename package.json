@@ -1,0 +1,10 @@
+{
+  "name": "challenge_closures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "challenge.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "MIT"
+}
